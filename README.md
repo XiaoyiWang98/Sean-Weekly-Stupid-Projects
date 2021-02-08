@@ -1,2 +1,3 @@
-# Sean-Weekly-Stupid-Projects
-A project a month keeps the professor away
+# Sean's Stupid Projects （每月一个懵逼项目）
+## Python
+* Ping Pong Mouse I
